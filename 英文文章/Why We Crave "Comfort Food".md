@@ -1,7 +1,9 @@
  
 
 
-RAT NAR ORE, Res EAE, ARIMA 是热量，而是记忆。回味那份温馨，无需食物，心也能定。
+# Why We Crave "Comfort Food"
+
+> 慰藉我们的不是热量，而是记忆。回味那份温馨，无需食物，心也能定。
 
 When under severe emotional distress, adults often turn to what psychologist Joyce Brothers coined in 1966 as "comfort food" — food heavily associated with the security of childhood. For some, it might be a dish of buckwheat groats and bow-tie noodles, while for others, comfort comes in a bowl of pasta with a great-grandmother's tomato sauce. When there is no time for old-world cooking, ice cream frequently serves the purpose. This fundamental human craving relies deeply on meals imbued with memories of feeling safe and cared for.
 

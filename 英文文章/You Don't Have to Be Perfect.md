@@ -1,6 +1,8 @@
 
 
 
+# You Don't Have to Be Perfect
+
 > 追求完美让你焦虑？放下执念，重拾好奇心。拥抱不完美，解锁轻松快乐的人生！
 
 Hard and fast thinkers want perfection, and defeat and failure are not in their vocabulary. For them, everything must be just so. However, no one is perfect. Thinking that we can be perfect is the path to definite failure. My parents were exacting about certain things in life, but not all. For example, my father handled his brush, ink, and rice paper meticulously during his calligraphy sessions. My mother was exacting in the kitchen. The rice had to be washed three times, and the vegetables scrubbed just as much. This type of perfection, fortunately, did not rule other areas of their lives. My parents were surprisingly hands-off about many things. Namely, they never once pestered me about bringing home straight A's, not that grades weren't important. Frankly, I was studious just enough. Perhaps my parents knew that demanding a straight A report card was plain old crazy-making for them and me. They never even used the word perfection.
