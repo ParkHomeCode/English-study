@@ -56,6 +56,21 @@
 
 > （随你提问，逐句往这里补：原句 · 结构 · 关键词例句 · 翻译）
 
+### 📍 第5段 · When it comes to communicating, it can be quite challenging to take all the thoughts you have, as well as all the input from the things you're seeing and hearing, and really put together a coherent argument
+
+**结构**：`When it comes to communicating`（说到沟通）+ **形式主语** `it can be quite challenging to ...`（真主语是后面的 to do）。两个并列不定式动作：① to take [all the thoughts + all the input] ② and (to) put together a coherent argument。
+
+**关键点**：
+- `when it comes to (doing) sth` ⭐ 说到/涉及…（to 是介词，后接 -ing）
+- `It is + 形容词 + to do sth` 形式主语句型
+- `as well as` ⭐ 以及、还有（连主语时动词随前一个主语）
+- `input` 输入的信息/素材（⟷ output）
+- `put together` ⭐ 组织、整合、拼凑（put together a plan/team/report）
+- `coherent` ⭐ 连贯的、有条理的（⟷ incoherent）
+- `argument` 论点、论述（≠争吵，看语境）
+
+**翻译**：一谈到沟通，有件事挺难的：你得把脑子里各种想法，连同所见所闻的一切信息全整合到一起，再真正拼出一段条理清晰的话来。
+
 <!-- 提问后在此追加 -->
 
 ---
@@ -63,6 +78,14 @@
 ## 🔑 三、高频短语汇总
 
 > （随读累积）
+
+- `when it comes to (doing) sth` ⭐ 说到/涉及…（to 是介词，接 -ing）
+- `It is + 形容词 + to do sth` 形式主语句型
+- `as well as` 以及、还有
+- `put together` 组织、整合、拼凑
+- `coherent` 连贯的、有条理的（⟷ incoherent）
+- `argument` 论点、论述（也=争吵）
+- `input` 输入信息（⟷ output）
 
 <!-- 提问后在此追加 -->
 
