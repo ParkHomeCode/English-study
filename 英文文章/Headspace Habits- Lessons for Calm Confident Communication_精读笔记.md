@@ -77,6 +77,21 @@
 - 括号图：`challenging to take [thoughts] as well as [input from things (you're seeing and hearing)], and (to) put together [argument]`
 - 💡 技巧：见 and 先问"连接同级的哪两样"；逗号常是大并列的分界。
 
+### 📍 第9段 · When I first started teaching, one of the big challenges I had was to synthesize all of the material that I wanted to get across to my students so that they could understand it
+
+**结构**：时间从句 `When I first started teaching` + 主干 `one of the big challenges I had **was** to synthesize ...`（one of + 复数 → 主语核心是 one，用 was）+ 定语从句 `that I wanted to get across...` 修饰 material + 目的从句 `so that they could understand it`。
+
+**关键点**：
+- `first`（副词）刚一、最初
+- `one of the + 复数` …之一（动词用**单数**：one of my friends **is**…）
+- `be to do sth` 表语：是要做…
+- `synthesize` ⭐ 综合、整合、提炼（n. synthesis；≈ put together）
+- `material` 材料、素材
+- `get across (to sb)` ⭐ 把内容传达清楚、让人听懂（get my point across）
+- `so that + 从句` 以便、为了（常跟 can/could）
+
+**翻译**：我刚开始教书那会儿，一大难题就是怎么把我想讲给学生的全部内容整合、提炼到位，好让他们真正听得懂。
+
 <!-- 提问后在此追加 -->
 
 ---
@@ -92,6 +107,10 @@
 - `coherent` 连贯的、有条理的（⟷ incoherent）
 - `argument` 论点、论述（也=争吵）
 - `input` 输入信息（⟷ output）
+- `one of the + 复数` …之一（动词用单数）
+- `synthesize` 综合、整合、提炼（n. synthesis）
+- `get across (to sb)` 把内容传达清楚、让人听懂
+- `so that + 从句` 以便、为了
 
 <!-- 提问后在此追加 -->
 
