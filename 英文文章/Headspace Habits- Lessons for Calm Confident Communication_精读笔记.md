@@ -92,6 +92,23 @@
 
 **翻译**：我刚开始教书那会儿，一大难题就是怎么把我想讲给学生的全部内容整合、提炼到位，好让他们真正听得懂。
 
+### 📍 第13段 · Not only is this a form of paraphrasing, which helps with listening, but this is a way of, yet again, training your brain to leverage a structure
+
+**🔁 又见 `Not only` 句首倒装**（第二次，巩固）：`Not only **is this**...`（正常 this is）。对照上篇 `Not only **does saying**... force...`。
+
+**结构**：Not only ... but ... 双重作用 + `which helps with listening` 非限定从句修饰 paraphrasing + 插入语 `yet again`（折叠掉）+ `a way of training... to leverage a structure`。
+
+**关键点**：
+- `not only ... but ...` 不仅…而且…（句首 Not only → be/助动词提前倒装）⭐
+- `a form of sth` 一种…的形式
+- `help with sth` 对…有帮助
+- `a way of doing sth` 做某事的方式
+- `yet again` ⭐ 再一次、又一次（带"又来了"语气）
+- `train your brain to do` 训练大脑去做
+- `leverage` ⭐ 利用、善用、借力（商务高频；本义杠杆）：leverage your skills/resources
+
+**翻译**：这么做不仅是一种"复述"（复述本身就有助于倾听）；同时，它还又一次地在训练你的大脑去善用结构。
+
 <!-- 提问后在此追加 -->
 
 ---
@@ -111,6 +128,11 @@
 - `synthesize` 综合、整合、提炼（n. synthesis）
 - `get across (to sb)` 把内容传达清楚、让人听懂
 - `so that + 从句` 以便、为了
+- `not only ... but ...` 不仅…而且（句首 Not only 倒装）
+- `help with sth` 对…有帮助
+- `a way of doing sth` 做某事的方式
+- `yet again` 再一次、又一次
+- `leverage` 利用、善用、借力（商务高频）
 
 <!-- 提问后在此追加 -->
 
