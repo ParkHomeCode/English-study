@@ -190,6 +190,23 @@
 
 **翻译**：这些矿物质有助于调节身体的诸多机能，比如神经和肌肉的运作。想更快补上，可以喝点运动饮料、椰子水，或酸樱桃汁。
 
+### 📍 第8段 · Smoothies can be a good way to get the hydration and electrolyte benefits of fruit in a cold and sweet treat that spares you the heavy sugar and dairy hit of a milkshake
+
+**结构**：主干 `Smoothies can be a good way to get...benefits of fruit` + 方式 `in a cold and sweet treat` + 定语从句 `that spares you the ... hit of a milkshake`（修饰 treat）。
+
+**⭐ 重点短语 `spare sb sth`** = 使某人免于/省去（麻烦、痛苦）：Let me spare you the details.（细节就不啰嗦了）
+
+**关键点**：
+- `smoothie` /ˈsmuːði/ 冰沙、果昔
+- `treat` 难得的享受、美食犒赏（巩固）
+- `spare sb sth` ⭐ 使某人免于、省去
+- ⚠️ `hit`（名词）此处=**冲击/负担**（负面）；对比上句 a quicker hit=一剂/补充（中性）——同词靠语境判褒贬
+- `milkshake` 奶昔（高糖高脂）
+
+**翻译**：喝冰沙是个不错的选择——它能让你在一份冰凉香甜的享受里摄取水果的补水和电解质，还不用像喝奶昔那样承受高糖高脂的负担。
+
+**💡 主旨缩影**：冰沙 vs 奶昔 = "好吃"和"健康"可兼得（呼应结尾）。
+
 <!-- 提问后在此追加 -->
 
 ---
@@ -226,6 +243,8 @@
 - `turn to sth/sb` 求助于、选用、诉诸
 - `hit`（n.口语）一剂、快速补充
 - `tart` 酸的；果馅饼/蛋挞
+- `spare sb sth` 使某人免于、省去
+- `hit`（n.）冲击/负担；也=一剂/补充（靠语境判褒贬）
 
 <!-- 提问后在此追加 -->
 
