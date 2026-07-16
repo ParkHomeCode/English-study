@@ -172,6 +172,24 @@
 
 **翻译**：但一定要记住：这类食物很容易坏，大热天里得好好保存、妥善处理。
 
+### 📍 第7段 · These minerals help regulate a host of bodily operations, including nerve and muscle function. For a quicker hit, you can turn to sports drinks, coconut water, or tart cherry juice
+
+**结构**：`help (to) do`（help 后可省 to）；`a host of + 复数`；`including` 举例；第二句 `For a quicker hit`（想更快补充）+ `turn to` 三个饮品。
+
+**关键点**：
+- `help (to) do sth` 帮助/有助于做（美式常省 to）
+- `regulate` ⭐ 调节、调控（regulate body temperature；n. regulation）
+- `a host of` ⭐ 大量的、许多（host≠主人；a host of problems）
+- `bodily` 身体的（bodily functions）
+- `operation` 运作、机能；手术；操作
+- `nerve/muscle/function` 神经/肌肉/功能
+- `hit`（名词·口语）一剂、快速补充（a hit of caffeine；也=打击/热门）
+- `turn to sth/sb` ⭐ 求助于、选用、诉诸（巩固 清晰表达1）
+- `tart` ⭐ 酸的；（名词）果馅饼/蛋挞（egg tart）
+- `coconut` 椰子
+
+**翻译**：这些矿物质有助于调节身体的诸多机能，比如神经和肌肉的运作。想更快补上，可以喝点运动饮料、椰子水，或酸樱桃汁。
+
 <!-- 提问后在此追加 -->
 
 ---
@@ -202,6 +220,12 @@
 - `perishable` 易腐的、易变质的（v. perish）
 - `need to be done` 需要被…（也可 need doing）
 - `handle` 处理、对待、保管
+- `help (to) do sth` 帮助/有助于做（可省 to）
+- `regulate` 调节、调控
+- `a host of` 大量的、许多
+- `turn to sth/sb` 求助于、选用、诉诸
+- `hit`（n.口语）一剂、快速补充
+- `tart` 酸的；果馅饼/蛋挞
 
 <!-- 提问后在此追加 -->
 
