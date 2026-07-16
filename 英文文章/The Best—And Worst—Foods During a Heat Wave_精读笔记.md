@@ -144,6 +144,19 @@
 
 **💡 精读福利**：本篇很多词前后复现（hydration/dehydration、homemade、better off）——越往后读越省力。
 
+### 📍 第6段 · The foods you should include in your diet are a lot more numerous than the ones you should exclude
+
+**结构**：比较句 A more numerous than B。两处**省略关系词**：foods (that) you should include / the ones (that) you should exclude（巩固）。`the ones` 替代 foods。
+
+**关键点**：
+- `include` ⭐ 包括、纳入（include ... in ...）⟷ `exclude` ⭐ 排除（ex-向外；adj. exclusive）
+- `diet` 饮食；节食（go on a diet）
+- `a lot / much / far + 比较级` …得多（加强比较级）
+- `numerous` ⭐ 众多的、许多的（= many，正式）
+- `the ones` 那些（替代复数名词，巩固）
+
+**翻译**：在热天，你该多吃的食物，其实比该忌口的多得多。
+
 <!-- 提问后在此追加 -->
 
 ---
@@ -167,6 +180,9 @@
 - `mess with sth` 扰乱、干扰；招惹
 - `be better off (with) sth` 有/选…更好
 - `gut` 肠道；直觉（gut feeling）
+- `include` 纳入 ⟷ `exclude` 排除
+- `a lot/much/far + 比较级` …得多
+- `numerous` 众多的（= many，正式）
 
 <!-- 提问后在此追加 -->
 
