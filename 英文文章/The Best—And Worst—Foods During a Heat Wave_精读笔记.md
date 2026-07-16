@@ -108,6 +108,25 @@
 
 **翻译**：同理，薯片、腌肉这类高盐加工食品，会让你摄入更多钠，从而加重脱水——尤其是当你水又喝得不够的时候。
 
+### 📍 第5段 · Alcohol and caffeine are diuretics, stimulating the urinary system and causing you to excrete water at the very time you need it the most. ... The dairy slows down gastric transit, increasing body temperature as a result
+
+**结构**：又是**句尾 -ing 讲结果**（本篇文风）：`stimulating...and causing...`、`increasing... as a result`。`at the very time you need it the most` = 恰恰在你最需要它的时候（very 强调）。
+
+**关键点**：
+- `caffeine` /ˈkæfiːn/ 咖啡因
+- `diuretic` ⭐ 利尿剂；利尿的
+- `stimulate` ⭐ 刺激、促进、激发（n. stimulation）
+- `cause sb to do sth` 导致/使某人做某事
+- `excrete` ⭐ 排出、排泄（n. excretion）
+- `the very + 名词` 正是…那个（at the very moment 就在那一刻）
+- `full-fat` 全脂的（⟷ low-fat/skimmed）
+- `dairy` ⭐ 乳制品（dairy products）
+- `slow down` 减慢
+- `gastric` ⭐ 胃的（gastric acid 胃酸）；`transit` 通过、运输（in transit 运输途中）
+- `as a result` 结果、因此（巩固）
+
+**翻译**：酒精和咖啡因都是利尿剂，会刺激泌尿系统、让你排出水分——偏偏是在你最缺水的时候。全脂奶制品和高糖饮料也各有麻烦：奶制品会拖慢肠胃排空，结果反把体温顶了上去。
+
 <!-- 提问后在此追加 -->
 
 ---
@@ -148,6 +167,13 @@
 | digest | 消化（n. digestion） |
 | overheated | 过热的、燥热的 |
 | sluggish | 迟钝的、懒洋洋的、无精打采的 |
+| caffeine | 咖啡因 |
+| diuretic | 利尿剂；利尿的 |
+| stimulate | 刺激、促进、激发 |
+| excrete | 排出、排泄 |
+| dairy | 乳制品 |
+| gastric | 胃的（gastric acid 胃酸） |
+| transit | 通过、运输、中转 |
 
 > （随读累积；本篇饮食/健康词很多）
 
