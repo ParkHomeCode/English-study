@@ -57,6 +57,22 @@
 
 > （随你提问，逐句往这里补：原句 · 结构 · 关键词例句 · 翻译）
 
+### 📍 第3段 · The brain's hypothalamus has heat-sensing proteins that are generated when temperatures rise, creating the sensation of satiety and fullness even if you haven't eaten
+
+**结构**：主干 `hypothalamus has heat-sensing proteins` + 定语从句 `that are generated when temperatures rise`（被动+时间从句）+ 现在分词作**结果状语** `creating the sensation...`（从而造成…）+ 让步 `even if you haven't eaten`。
+
+**关键点**：
+- `hypothalamus` 下丘脑（认识即可）
+- `heat-sensing` 感热的（构词：X-sensing 感知…的，如 motion-sensing 感应运动的）
+- `generate` ⭐ 生成、产生（be generated 被生成）
+- `creating`（现在分词作结果状语）从而造成…
+- `sensation` 感觉（巩固 comfort food 的 soothing sensation）
+- `satiety` ⭐ /səˈtaɪəti/ 饱腹感、满足（adj. satiated）
+- `fullness` 饱胀感（-ness 构词）
+- `even if` ⭐ 即使、就算（让步）
+
+**翻译**：人的下丘脑里有一些"感热蛋白"，气温一升高就会生成；于是即便你压根没吃东西，也会产生一种"已经吃饱了"的错觉。
+
 <!-- 提问后在此追加 -->
 
 ---
@@ -65,11 +81,24 @@
 
 > （随读累积）
 
+- `heat-sensing` 感热的（X-sensing 感知…的）
+- `generate` 生成、产生（be generated）
+- `creating`（现在分词作结果状语）从而造成…
+- `even if` 即使、就算（让步）
+
 <!-- 提问后在此追加 -->
 
 ---
 
 ## 🧠 四、单词卡片
+
+| 英文 | 释义 |
+|---|---|
+| hypothalamus | 下丘脑 |
+| protein | 蛋白质 |
+| sensation | 感觉、感受 |
+| satiety /səˈtaɪəti/ | 饱腹感、满足 |
+| fullness | 饱胀感 |
 
 > （随读累积；本篇饮食/健康词很多）
 
