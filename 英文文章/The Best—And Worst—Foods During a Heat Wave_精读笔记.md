@@ -207,6 +207,27 @@
 
 **💡 主旨缩影**：冰沙 vs 奶昔 = "好吃"和"健康"可兼得（呼应结尾）。
 
+### 📍 第9段（结尾）· By prioritizing restorative fare and remaining mindful of your body's needs, you can savor the delights of the season without compromising your well-being, proving that choosing fun and satisfying foods need not be separated from choosing smart and healthy ones
+
+**结构**：`By + 两个动名词`（方式：prioritizing.../remaining mindful...）+ 主干 `you can savor... without compromising...` + `proving that...`（现在分词作**结果状语**，本篇标志文风）。
+
+**关键点**：
+- `prioritize` ⭐ 优先考虑（n. priority）
+- `restorative` 滋补的、恢复元气的（巩固 comfort food）
+- `fare` ⭐ 食物、饭菜（文雅义！不是车费）；bus fare 车费
+- `remain + 形容词` 保持（remain mindful）
+- `mindful of sth` 留意、顾及（呼应"正念"mindful）
+- `savor` ⭐ 细细品味、尽情享受（savor every bite）
+- `delight` 愉悦、乐趣（to my delight）
+- `compromise` ⭐ 损害、危及（本句！≠"妥协"）
+- `well-being` 健康、福祉（巩固 comfort food）
+- `need not (do)` 不必、无需（= don't need to，后接原形）
+- `be separated from` 与…分开/脱节
+
+**翻译**：只要优先吃些滋补食物、又时时顾及身体需求，你就能尽享夏日美好而不牺牲健康——这说明：吃得开心过瘾，和吃得聪明健康，并不矛盾。
+
+**💡 点题金句**：美味与健康不是二选一（fun & satisfying 不必 separated from smart & healthy）。
+
 <!-- 提问后在此追加 -->
 
 ---
@@ -245,6 +266,12 @@
 - `tart` 酸的；果馅饼/蛋挞
 - `spare sb sth` 使某人免于、省去
 - `hit`（n.）冲击/负担；也=一剂/补充（靠语境判褒贬）
+- `prioritize` 优先考虑（n. priority）
+- `fare` 食物、饭菜（文雅义；也=车费）
+- `savor` 细细品味、尽情享受
+- `compromise` 损害、危及（≠妥协）
+- `need not (do)` 不必、无需
+- `mindful of sth` 留意、顾及
 
 <!-- 提问后在此追加 -->
 
@@ -282,9 +309,37 @@
 
 ## ⏳ 五、复习清单（读完后筛选）
 
-> 只挑最易忘/最高频的少数点，交给时间。
+> 只挑最易忘/最高频的少数点，交给时间。用"先想 3 秒，再看答案"。
 
-<!-- 读完整篇后填 -->
+**🔑 最该记的通用词/短语（跨文章高频）：**
+- [ ] `worsen` 使恶化、加重
+- [ ] `mess with sth` 扰乱、干扰；招惹
+- [ ] `a host of` 大量的、许多
+- [ ] `spare sb sth` 使某人免于、省去
+- [ ] `prioritize` 优先考虑
+- [ ] `savor` 细细品味、尽情享受
+- [ ] `numerous` 众多的
+- [ ] `stimulate` 刺激、促进
+- [ ] `regulate` 调节、调控
+
+**⚠️ 最易错/易混：**
+- [ ] `raise`（及物 升高）≠ `rise`（不及物 上升）
+- [ ] `compromise` = 损害/危及（本文义）≠ 妥协
+- [ ] `fare` = 食物（文雅义）≠ 只当车费
+- [ ] `hit` = 一剂/补充 vs 冲击/负担（靠语境判褒贬）
+- [ ] `include ⟷ exclude`；`hydration ⟷ dehydration`
+
+**📝 语法/文风：**
+- [ ] `Do + 动词原形` 强调（务必/确实）
+- [ ] 句尾 `-ing` 讲结果（creating/raising/proving...）— 本篇标志文风
+- [ ] `need not (do)` = 不必（后接原形）
+- [ ] `leave sb doing/feeling...` 使某人处于…状态
+
+**🍉 主题词（饮食健康）：**
+- [ ] dehydration/sodium/intake/fluids/electrolyte/diuretic/dairy/gastric
+- [ ] perishable 易腐的 · satiety 饱腹感 · gut 肠道
+
+**💡 主旨：** 美味 ≠ 与健康对立——热浪天优先补水+电解质、清淡冷蛋白+果蔬，可兼得"好吃"与"健康"。
 
 ---
 
