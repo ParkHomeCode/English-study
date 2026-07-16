@@ -91,6 +91,23 @@
 
 **翻译**：油腻厚重的食物基本要忌口。一顿炸鸡野餐、一场烤排骨烧烤听着馋人，可这些高脂高热量的东西更难消化，会把体温顶上去，让你又燥热又提不起劲。
 
+### 📍 第4段 · Similarly, salty processed foods such as chips and cured meats can worsen dehydration by increasing sodium intake, especially if you're not drinking enough fluids
+
+**结构**：`Similarly`（同样）+ 主语 salty processed foods（such as 举例）+ 谓语 `can worsen dehydration` + 方式 `by increasing sodium intake`（by+动名词）+ 条件 `especially if...`。
+
+**关键点**：
+- `similarly` 同样地、类似地（过渡）
+- `cured meats` ⭐ 腌制肉类（cure=腌制/加工保存，非"治愈"义）
+- `worsen` ⭐ 使恶化、加重（worse→worsen）
+- `dehydration` ⭐ 脱水（de去+hydr水；v. dehydrate；反 hydrate/hydration 补水）
+- `by doing sth` 通过做…（方式）
+- `sodium` ⭐ 钠（low-sodium 低钠）
+- `intake` ⭐ 摄入量（in+take；呼应 take in）
+- `fluids` ⭐ 液体、水分（drink plenty of fluids）
+- ⚠️ chips：美式=薯片(英式crisps)；英式=薯条(美式fries)
+
+**翻译**：同理，薯片、腌肉这类高盐加工食品，会让你摄入更多钠，从而加重脱水——尤其是当你水又喝得不够的时候。
+
 <!-- 提问后在此追加 -->
 
 ---
@@ -107,6 +124,9 @@
 - `X-dense` …密度高的（fat-/calorie-/nutrient-dense）
 - `raise`（及物 升高）≠ `rise`（不及物 上升）
 - `leave sb doing/feeling...` 使某人处于…状态
+- `similarly` 同样地、类似地
+- `by doing sth` 通过做…（方式）
+- `worsen` 使恶化、加重
 
 <!-- 提问后在此追加 -->
 
