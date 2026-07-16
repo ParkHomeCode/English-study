@@ -73,6 +73,24 @@
 
 **翻译**：人的下丘脑里有一些"感热蛋白"，气温一升高就会生成；于是即便你压根没吃东西，也会产生一种"已经吃饱了"的错觉。
 
+### 📍 第4段 · Heavy, greasy foods are a general no-go. That fried chicken picnic lunch or grilled ribs cookout may seem appealing, but such fat- and calorie-dense foods can be harder to digest, raising body temperature and leaving you feeling overheated and sluggish
+
+**结构**：主干 `such foods can be harder to digest` + 两个现在分词作**结果状语** `raising body temperature` / `leaving you feeling...`（巩固：句尾 -ing 讲结果，同上句 creating）。
+
+**关键点**：
+- `greasy` 油腻的（grease 油脂）
+- `no-go` 禁区、行不通的（a general no-go / no-go zone）
+- `grilled` 烧烤的（grill）；`cookout` 户外烧烤聚餐
+- `appealing` 吸引人的、诱人的（v. appeal）
+- `X-dense` …密度高的（fat-/calorie-/nutrient-dense）
+- `digest` 消化（n. digestion）
+- ⚠️ `raise`（及物：升高…）≠ `rise`（不及物：上升）
+- `leave sb doing/feeling...` ⭐ 使某人处于…状态（left me feeling worried）
+- `overheated` 过热的、燥热的
+- `sluggish` ⭐ 迟钝的、懒洋洋的、无精打采的（也形容经济低迷）
+
+**翻译**：油腻厚重的食物基本要忌口。一顿炸鸡野餐、一场烤排骨烧烤听着馋人，可这些高脂高热量的东西更难消化，会把体温顶上去，让你又燥热又提不起劲。
+
 <!-- 提问后在此追加 -->
 
 ---
@@ -85,6 +103,10 @@
 - `generate` 生成、产生（be generated）
 - `creating`（现在分词作结果状语）从而造成…
 - `even if` 即使、就算（让步）
+- `no-go` 禁区、行不通的
+- `X-dense` …密度高的（fat-/calorie-/nutrient-dense）
+- `raise`（及物 升高）≠ `rise`（不及物 上升）
+- `leave sb doing/feeling...` 使某人处于…状态
 
 <!-- 提问后在此追加 -->
 
@@ -99,6 +121,13 @@
 | sensation | 感觉、感受 |
 | satiety /səˈtaɪəti/ | 饱腹感、满足 |
 | fullness | 饱胀感 |
+| greasy | 油腻的 |
+| grilled | 烧烤的（grill 炙烤） |
+| cookout | 户外烧烤聚餐 |
+| appealing | 吸引人的、诱人的 |
+| digest | 消化（n. digestion） |
+| overheated | 过热的、燥热的 |
+| sluggish | 迟钝的、懒洋洋的、无精打采的 |
 
 > （随读累积；本篇饮食/健康词很多）
 
