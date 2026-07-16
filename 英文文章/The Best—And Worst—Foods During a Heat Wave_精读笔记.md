@@ -157,6 +157,21 @@
 
 **翻译**：在热天，你该多吃的食物，其实比该忌口的多得多。
 
+### 📍 第6段 · Do remember that such foods are very perishable and need to be handled properly in the heat
+
+**⭐ 强调用法 `Do + 动词原形`**：Do remember = **务必/一定要**记住（不是"做"）。祈使句加 Do 加强语气；陈述句也可：I **do** like it 我确实喜欢。
+
+**关键点**：
+- `Do + 动词原形` 务必、千万、确实（Do be careful! / Do come in.）
+- `such + 名词` 这类、这样的
+- `perishable` ⭐ 易腐的、易变质的（v. perish 腐烂/消亡；non-perishable 不易变质的）
+- `need to be done` 需要被…（被动不定式；也可 need doing）
+- `handle` ⭐ 处理、对待、保管（handle with care 小心轻放）
+- `properly` 恰当地、妥善地
+- `in the heat` 在高温中
+
+**翻译**：但一定要记住：这类食物很容易坏，大热天里得好好保存、妥善处理。
+
 <!-- 提问后在此追加 -->
 
 ---
@@ -183,6 +198,10 @@
 - `include` 纳入 ⟷ `exclude` 排除
 - `a lot/much/far + 比较级` …得多
 - `numerous` 众多的（= many，正式）
+- `Do + 动词原形` 务必、千万（强调祈使/陈述）
+- `perishable` 易腐的、易变质的（v. perish）
+- `need to be done` 需要被…（也可 need doing）
+- `handle` 处理、对待、保管
 
 <!-- 提问后在此追加 -->
 
