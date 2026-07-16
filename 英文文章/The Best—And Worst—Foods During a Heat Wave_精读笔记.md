@@ -127,6 +127,23 @@
 
 **翻译**：酒精和咖啡因都是利尿剂，会刺激泌尿系统、让你排出水分——偏偏是在你最缺水的时候。全脂奶制品和高糖饮料也各有麻烦：奶制品会拖慢肠胃排空，结果反把体温顶了上去。
 
+### 📍 第5段 · Sugar, meantime, messes with hydration because it pulls fluids into the gut. You're better off with flavored water or homemade fresh fruit pops
+
+**关键点**：
+- `meantime` 与此同时（= meanwhile；in the meantime）
+- `mess with sth` ⭐ 扰乱、干扰、搞乱；（口语）招惹、乱动（Don't mess with him.）
+- `hydration` 水合、补水（本文 dehydration 的反义，巩固）
+- `pull ... into ...` 把…拉进…
+- `gut` ⭐ 肠道、肠胃；也指直觉（gut feeling / trust your gut）
+- `be better off (with) sth` ⭐ 有/选…更好（巩固 正念沟通2）
+- `flavored` 加味的、调味的（flavor）
+- `homemade` 自制的（巩固 comfort food）
+- `fruit pops` 水果冰棍（pop = popsicle）
+
+**翻译**：而糖呢，也会打乱身体补水——因为它把水分往肠道里拽。所以你不如选加味水，或自制的鲜果冰棍。
+
+**💡 精读福利**：本篇很多词前后复现（hydration/dehydration、homemade、better off）——越往后读越省力。
+
 <!-- 提问后在此追加 -->
 
 ---
@@ -146,6 +163,10 @@
 - `similarly` 同样地、类似地
 - `by doing sth` 通过做…（方式）
 - `worsen` 使恶化、加重
+- `meantime` 与此同时（= meanwhile）
+- `mess with sth` 扰乱、干扰；招惹
+- `be better off (with) sth` 有/选…更好
+- `gut` 肠道；直觉（gut feeling）
 
 <!-- 提问后在此追加 -->
 
